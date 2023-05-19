@@ -1,0 +1,19 @@
+.summary {
+    display: grid;
+    justify-content: center;
+    border: 0 solid rgba(0, 0, 0, 0.235);
+    border-radius: 3rem;
+    background-color: rgb(58, 58, 58);
+    color: white;
+    width: 35%;
+    height: 50%;
+    margin: auto;
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 1.7rem;
+    text-align: center;
+    margin-top: -24rem;
+    position: relative;
+    box-shadow: 0 1px 18px 10px rgba(0, 0, 0, 0.25);;
+
+}

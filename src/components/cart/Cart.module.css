@@ -1,0 +1,21 @@
+.close {
+    border: 0.1rem solid #8a2b06;
+    background-color: rgba(255, 255, 255, 0);
+    color: #8a2b06;
+}
+.order {
+    background-color: #8a2b06;
+    color: white;
+}
+.total {
+    display: grid;
+    /* margin: auto;
+    width: 80%; */
+    text-align: center;
+    justify-content: center;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.h2 {
+    display: block;
+}

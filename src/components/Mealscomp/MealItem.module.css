@@ -1,0 +1,27 @@
+h2 {
+    color: rgb(173, 32, 32);
+    font-size: 2rem;
+}
+.desc {
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+.price {
+    color: rgb(173, 32, 32);
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+.meal {
+    border-bottom: 1px solid #ccc;
+    list-style: none;
+    border-radius: 1rem;
+}
+.blocklist {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.mealcart {
+    padding: 3rem;
+    
+}
