@@ -14,6 +14,10 @@
     text-align: center;
     margin-top: -24rem;
     position: relative;
-    box-shadow: 0 1px 18px 10px rgba(0, 0, 0, 0.25);;
-
+    box-shadow: 0 1px 18px 10px rgba(0, 0, 0, 0.25);
+}
+@media(max-width:768px) {
+    .summary {
+        width: 60%;
+    }
 }
